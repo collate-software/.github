@@ -1,0 +1,2 @@
+# .github
+Collate Software
