@@ -1,1 +1,1 @@
-# Collate Software
+# Collate
